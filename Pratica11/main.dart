@@ -522,14 +522,3 @@ class Matteuccia extends StatelessWidget {
     );
   }
 }
-
-
-
-
-
-
-
-
-
-
-
